@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Theodore M. Giannaros</title>
+    <link>https://tmgiannaros.github.io/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Theodore M. Giannaros</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://tmgiannaros.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Climate modeling and applications  (in English)</title>
+      <link>https://tmgiannaros.github.io/talk/athens-2018/</link>
+      <pubDate>Tue, 20 Nov 2018 00:54:14 +0300</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/talk/athens-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of a rapid-response forecasting system for fire spread prediction in the context of the DISARM project (in Greek)</title>
+      <link>https://tmgiannaros.github.io/talk/athens-2019/</link>
+      <pubDate>Tue, 20 Nov 2018 00:54:14 +0300</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/talk/athens-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climate and Climate Change  (in Greek)</title>
+      <link>https://tmgiannaros.github.io/talk/heraklion-2018/</link>
+      <pubDate>Mon, 15 Oct 2018 00:54:14 +0300</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/talk/heraklion-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical weather prediction models: A powerful tool for studying the atmosphere (in Greek)</title>
+      <link>https://tmgiannaros.github.io/talk/patra-2017/</link>
+      <pubDate>Mon, 15 Oct 2018 00:54:14 +0300</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/talk/patra-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The WRF-Chem model: Overview, capabilities, examples  (in English)</title>
+      <link>https://tmgiannaros.github.io/talk/belgrade-2017/</link>
+      <pubDate>Mon, 15 Oct 2018 00:54:14 +0300</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/talk/belgrade-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

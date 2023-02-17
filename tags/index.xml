@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Theodore M. Giannaros</title>
+    <link>https://tmgiannaros.github.io/tags/</link>
+    <description>Recent content in Tags on Theodore M. Giannaros</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 15 Oct 2018 00:39:11 +0300</lastBuildDate>
+    
+	<atom:link href="https://tmgiannaros.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GNSS</title>
+      <link>https://tmgiannaros.github.io/tags/gnss/</link>
+      <pubDate>Mon, 15 Oct 2018 00:39:11 +0300</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/tags/gnss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>assimilation</title>
+      <link>https://tmgiannaros.github.io/tags/assimilation/</link>
+      <pubDate>Mon, 15 Oct 2018 00:39:11 +0300</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/tags/assimilation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>drought</title>
+      <link>https://tmgiannaros.github.io/tags/drought/</link>
+      <pubDate>Mon, 15 Oct 2018 00:39:11 +0300</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/tags/drought/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>forecasting</title>
+      <link>https://tmgiannaros.github.io/tags/forecasting/</link>
+      <pubDate>Mon, 15 Oct 2018 00:39:11 +0300</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/tags/forecasting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>severe weather</title>
+      <link>https://tmgiannaros.github.io/tags/severe-weather/</link>
+      <pubDate>Mon, 15 Oct 2018 00:39:11 +0300</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/tags/severe-weather/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>warning system</title>
+      <link>https://tmgiannaros.github.io/tags/warning-system/</link>
+      <pubDate>Mon, 15 Oct 2018 00:39:11 +0300</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/tags/warning-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wildfires</title>
+      <link>https://tmgiannaros.github.io/tags/wildfires/</link>
+      <pubDate>Mon, 15 Oct 2018 00:39:11 +0300</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/tags/wildfires/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
