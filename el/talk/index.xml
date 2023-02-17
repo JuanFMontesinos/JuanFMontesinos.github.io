@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks on ΘΟΔΩΡΗΣ Μ. ΓΙΑΝΝΑΡΟΣ</title>
+    <link>https://tmgiannaros.github.io/el/talk/</link>
+    <description>Recent content in Talks on ΘΟΔΩΡΗΣ Μ. ΓΙΑΝΝΑΡΟΣ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>el</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 20 Nov 2018 00:54:14 +0300</lastBuildDate>
+    
+	<atom:link href="https://tmgiannaros.github.io/el/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Climate modeling and applications  (στα Αγγλικά)</title>
+      <link>https://tmgiannaros.github.io/el/talk/athens-2018/</link>
+      <pubDate>Tue, 20 Nov 2018 00:54:14 +0300</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/el/talk/athens-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ανάπτυξη προγνωστικού συστήματος ταχείας απόκρισης για την πρόγνωση της εξάπλωσης δασικών πυρκαγιών στα πλαίσια του προγράμματος DISARM  (στα Ελληνικά)</title>
+      <link>https://tmgiannaros.github.io/el/talk/athens-2019/</link>
+      <pubDate>Tue, 20 Nov 2018 00:54:14 +0300</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/el/talk/athens-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The WRF-Chem model: Overview, capabilities, examples  (στα Αγγλικά)</title>
+      <link>https://tmgiannaros.github.io/el/talk/belgrade-2017/</link>
+      <pubDate>Mon, 15 Oct 2018 00:54:14 +0300</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/el/talk/belgrade-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Κλίμα και κλιματική αλλαγή  (στα Ελληνικά)</title>
+      <link>https://tmgiannaros.github.io/el/talk/heraklion-2018/</link>
+      <pubDate>Mon, 15 Oct 2018 00:54:14 +0300</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/el/talk/heraklion-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Μοντέλα αριθμητικής πρόγνωσης του καιρού: Ένα ισχυρό εργαλείο για την μελέτη της ατμόσφαιρας (στα Ελληνικά)</title>
+      <link>https://tmgiannaros.github.io/el/talk/patra-2017/</link>
+      <pubDate>Mon, 15 Oct 2018 00:54:14 +0300</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/el/talk/patra-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
