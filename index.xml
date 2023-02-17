@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Venkatesh S. Kadandale on Venkatesh S. Kadandale</title>
+    <link>https://vskadandale.github.io/</link>
+    <description>Recent content in Venkatesh S. Kadandale on Venkatesh S. Kadandale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0300</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <!--<item>
+      <title>CORDEX-WRF v1.3: development of a module for the Weather Research and Forecasting (WRF) model to support the CORDEX community</title>
+      <link>https://tmgiannaros.github.io/publication/fita_et_al-2019-geoscientific_model_development/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/publication/fita_et_al-2019-geoscientific_model_development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling lightning density using cloud top parameters</title>
+      <link>https://tmgiannaros.github.io/publication/karagiannidis_et_al-2019-atmospheric_research/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/publication/karagiannidis_et_al-2019-atmospheric_research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the short-term simulation of heat waves in the Southeast Mediterranean: Sensitivity of the WRF model to various physics schemes</title>
+      <link>https://tmgiannaros.github.io/publication/giannaros_et_al-2019-atmospheric_research/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/publication/giannaros_et_al-2019-atmospheric_research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climate modeling and applications  (in English)</title>
+      <link>https://tmgiannaros.github.io/talk/athens-2018/</link>
+      <pubDate>Tue, 20 Nov 2018 00:54:14 +0300</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/talk/athens-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of a rapid-response forecasting system for fire spread prediction in the context of the DISARM project (in Greek)</title>
+      <link>https://tmgiannaros.github.io/talk/athens-2019/</link>
+      <pubDate>Tue, 20 Nov 2018 00:54:14 +0300</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/talk/athens-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>20&#43;19 quotes for the new year</title>
+      <link>https://tmgiannaros.github.io/post/2019-wishes/</link>
+      <pubDate>Sun, 28 Oct 2018 20:50:09 +0200</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/post/2019-wishes/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;&amp;ldquo;Opportunities don&amp;rsquo;t happen. You create them.&amp;rdquo; (Chris Grosser)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Success is the sum of small efforts, repeated day-in and day-out.&amp;rdquo; (Rober Collier)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;The only place where success comes before work is in the dictionary.&amp;rdquo; (Vidal Sassoon)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.&amp;rdquo; (Henry Ford)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Fall seven times and stand up eight.&amp;rdquo; (Japanese proverb)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;The question isn&amp;rsquo;t who is going to let me; it&amp;rsquo;s who is going to stop me.&amp;rdquo; (Ayn Rand)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;I have not failed. I&amp;rsquo;ve just found 10,000 ways that won&amp;rsquo;t work.&amp;rdquo; (Thomas A. Edison)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Knowing is not enough; We must apply. Wishing is not enough; We must do.&amp;rdquo; (Johann Wolfgang Von Goethe)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Creativity is intelligence having fun.&amp;rdquo; (Albert Einstein)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;The future belongs to the competent. Get good, get better, be the best!&amp;rdquo; (Brian Tracy)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Today&amp;rsquo;s accomplishments were yesterday&amp;rsquo;s impossibilities.&amp;rdquo; (Robert H. Schuller)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;You don&amp;rsquo;t have to be great to start, but you have to start to be great.&amp;rdquo; (Zig Ziglar)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;It does not matter how slowly you go as long as you do not stop.&amp;rdquo; (Confucius)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Hardships often prepare ordinary peopel for extraordinary things&amp;rdquo; (C.S. Lewis)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Start by doing what&amp;rsquo;s necessary; then do what&amp;rsquo;s possible; and suddenly you are doing the impossible.&amp;rdquo; (Francis of Assisi)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;I am not a product of my circumstances. I am a product of my decisions.&amp;rdquo; (Stephen Covey)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Don&amp;rsquo;t wish it were easier; Wish you were better.&amp;rdquo; (Jim Rhon)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Only those who dare to fail greatly can achieve greatness.&amp;rdquo; (Robert F. Kennedy)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;I never dreamed about success. I worked for it.&amp;rdquo; (Estee Lauder)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there.&amp;rdquo; (Zig Ziglar)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Challenges are what make life interesting and overcoming them is what makes life meaningful.&amp;rdquo; (Joshua J. Marine)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Done is better than perfect.&amp;rdquo; (Sheryl Sandberg)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;When you want to succeed as bad as you want to breathe, then you’ll be successful.&amp;rdquo; (Eric Thomas)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Hard work beats talent when talent doesn’t work hard.&amp;rdquo; (Tim Notke)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Don’t stop when you’re tired. STOP when you are DONE.&amp;rdquo; (Unknown)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;The question isn’t who is going to let me; it’s who is going to stop me.&amp;rdquo; (Ayn Rand)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Perfection is not attainable, but if we chase perfection we can catch excellence.&amp;rdquo; (Vince Lombardi)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Expect problems and eat them for breakfast.&amp;rdquo; (Alfred A. Montapert)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;The greatest pleasure in life is doing what people say you cannot do.&amp;rdquo; (Walter Bagehot)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Don’t watch the clock; do what it does. Keep going.&amp;rdquo; (Sam Levenson)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;I can’t change the direction of the wind, but I can adjust my sails to always reach my destination.&amp;rdquo; (Jimmy Dean)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;A successful man is one who can lay a firm foundation with the bricks others have thrown at him.&amp;rdquo; (David Brinkley)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;The fruit of your own hard work is the sweetest.&amp;rdquo; (Deepika Padukone)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;A dream does not become reality through magic; it takes sweat, determination and hard work.&amp;rdquo; (Colin Powell)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;The difference between greed and ambition is a greedy person desires things he isn&amp;rsquo;t prepared to work for.&amp;rdquo; (Habeeb Akande)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;There are no shortcuts to any place worth going.&amp;rdquo; (Beverly Sills)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;The difference between ordinary and extraordinary is that little extra.&amp;rdquo; (Jimmy Johnson)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Your friends will believe in your potential, your enemies will make you live up to it.&amp;rdquo; (Tim Fargo)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Ideas do not work..It is YOU who has to do the work.&amp;rdquo; (Manoj Arora)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/7wtfhZwyrcc&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quote of the Day: October 28 2018</title>
+      <link>https://tmgiannaros.github.io/post/quote-of-the-day_20181028/</link>
+      <pubDate>Sun, 28 Oct 2018 20:50:09 +0200</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/post/quote-of-the-day_20181028/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;The devil whispered in my ear, &amp;ldquo;you&amp;rsquo;re not strong enough to withstand the storm&amp;rdquo;.
+I responded by whispering in the devil&amp;rsquo;s ear, &amp;ldquo;&lt;strong&gt;I am the storm&lt;/strong&gt;&amp;rdquo;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/j-70dbSeYsQ&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Climate and Climate Change  (in Greek)</title>
+      <link>https://tmgiannaros.github.io/talk/heraklion-2018/</link>
+      <pubDate>Mon, 15 Oct 2018 00:54:14 +0300</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/talk/heraklion-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical weather prediction models: A powerful tool for studying the atmosphere (in Greek)</title>
+      <link>https://tmgiannaros.github.io/talk/patra-2017/</link>
+      <pubDate>Mon, 15 Oct 2018 00:54:14 +0300</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/talk/patra-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The WRF-Chem model: Overview, capabilities, examples  (in English)</title>
+      <link>https://tmgiannaros.github.io/talk/belgrade-2017/</link>
+      <pubDate>Mon, 15 Oct 2018 00:54:14 +0300</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/talk/belgrade-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BalkanMed real time severe weather service (BeRTISS)</title>
+      <link>https://tmgiannaros.github.io/project/bertiss/</link>
+      <pubDate>Mon, 15 Oct 2018 00:39:11 +0300</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/project/bertiss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drought and fIre ObServatory and eArly waRning systeM (DISARM)</title>
+      <link>https://tmgiannaros.github.io/project/disarm/</link>
+      <pubDate>Mon, 15 Oct 2018 00:39:11 +0300</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/project/disarm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operational forecasting of human-biometeorological conditions</title>
+      <link>https://tmgiannaros.github.io/publication/giannaros_et_al_2018-international_journal_of_biometeorology/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/publication/giannaros_et_al_2018-international_journal_of_biometeorology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climatology and trends of the Euro-Mediterranean thermal bioclimate</title>
+      <link>https://tmgiannaros.github.io/publication/giannaros_et_al-2018-international_journal_of_climatology/</link>
+      <pubDate>Sat, 30 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/publication/giannaros_et_al-2018-international_journal_of_climatology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Evaluation of an Explicit Lightning Forecasting System</title>
+      <link>https://tmgiannaros.github.io/publication/dafis_et_al-2018-journal_of_geophysical_research/</link>
+      <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/publication/dafis_et_al-2018-journal_of_geophysical_research/</guid>
+      <description></description>
+    </item>
+    -->
+  </channel>
+</rss>
